@@ -6,3 +6,6 @@ class Person
   end
  end
  
+ lia = Person.new
+ lia.name = "Lia"
+ puts lia.name
