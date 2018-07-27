@@ -5,7 +5,7 @@ class Person
     @name = person_name
   end
   
-  def name
+  def person_name
     @name
   end
  end
